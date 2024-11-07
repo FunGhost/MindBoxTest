@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "text": "Тестовое задание",
+      "isCompleted": false
+    },
+    {
+      "id": 1,
+      "text": "Прекрасный код",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "text": "Покрытие тестами",
+      "isCompleted": false
+    }
+  ]
+}
